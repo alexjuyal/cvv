@@ -1,0 +1,156 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    color: #f6f7d4;
+    font-size: 6.25rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+    font-size: 2.5em;
+    padding: 10px;
+}
+
+h3 {
+    color: #66bfbf;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+    font-size: 2.0em;
+}
+
+h4 {
+    color: #66bfbf;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+    font-size: 2.0em;
+}
+
+h5 {
+    color: red;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    font-size: 2.0em;
+}
+
+a {
+    color: #11999E;
+    font-family: 'montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.top-container {
+    background-color: #66BFBF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+    text-align: center;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    font-family: #11999E;
+    padding: 50PX 0 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.intro {
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+}
+
+.contact-me {
+    line-height: 2;
+    width: 40%;
+    margin: 40px auto 60px;
+    padding: 50px 0 20px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.para {
+    font-family: 'Pacifico', cursive;
+}
+
+.resize-alex {
+    width: 25%;
+}
+
+.resize {
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-left: 30px;
+}
+
+.resize-chilli {
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-right: 30px;
+}
+
+.btn {
+    background: #011dd4;
+    background-image: -webkit-linear-gradient(top, #011dd4, #2980b9);
+    background-image: -moz-linear-gradient(top, #011dd4, #2980b9);
+    background-image: -ms-linear-gradient(top, #011dd4, #2980b9);
+    background-image: -o-linear-gradient(top, #011dd4, #2980b9);
+    background-image: linear-gradient(to bottom, #011dd4, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Alfa Slab One', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #2bc4ad);
+    background-image: -o-linear-gradient(top, #3cb0fd, #2bc4ad);
+    background-image: linear-gradient(to bottom, #3cb0fd, #2bc4ad);
+    text-decoration: none;
+}
